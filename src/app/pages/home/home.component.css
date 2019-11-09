@@ -1,0 +1,32 @@
+/*
+    BODY LAYOUT CLASSES
+*/
+.name-container{
+    min-height: 100vh;
+    width:60%;
+    margin: auto;
+    position: relative;
+}
+
+.intro{
+    text-align:center;
+}   
+
+/*
+    TABLE CLASSES
+*/
+
+.name-display{
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+  
+.name-row{
+    width:100%;
+}
+
+.name-col{
+    width:30%;
+    text-align:left;
+}
